@@ -6,3 +6,5 @@
 
 ## Program description:
 My implementation of an ordered binary search tree. In Testbs.java you can see how it was tested to prove that it provides accurate results.
+
+(This program was made for a university assignment)
